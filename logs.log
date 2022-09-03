@@ -1,0 +1,6 @@
+{"level":"info","message":"1:function getMinutes() { [native code] } - 4:8:2022 | Info: command loaded: [setPrefix]"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 4:8:2022 | Info: command loaded: [ping]"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 4:8:2022 | Info: load Event: [interactionCreate]"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 4:8:2022 | Info: load Event: [messageCreate]"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 4:8:2022 | Info: load Event: [ready]"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 4:8:2022 | Info: resolve"}
